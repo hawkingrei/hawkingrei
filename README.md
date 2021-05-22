@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Wechat ID
+
+```
+echo -n 'aGF3a2luZ3JlaQo=' | base64 -d
+```
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkingrei)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
