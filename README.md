@@ -8,6 +8,8 @@ echo -n 'aGF3a2luZ3JlaQo=' | base64 -d
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkingrei)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawkingrei&theme=monokai)
+
 <img src="https://github-profile-trophy.vercel.app/?username=hawkingrei&column=4&row=2&margin-w=20&margin-h=10" />
 <!--
 **hawkingrei/hawkingrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
