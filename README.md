@@ -6,8 +6,6 @@ Wechat ID
 echo -n 'aGF3a2luZ3JlaQo=' | base64 -d
 ```
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkingrei&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawkingrei&theme=monokai)
 
 <img src="https://github-profile-trophy.vercel.app/?username=hawkingrei&column=4&row=2&margin-w=20&margin-h=10" />
