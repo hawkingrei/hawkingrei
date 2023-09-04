@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 -->
 
 
-[tidb-commits]: https://img.shields.io/badge/39+commits-black?logoColor=balck&logo=go&label=TiDB&style=social
+[tidb-commits]: https://img.shields.io/badge/800+commits-black?logoColor=balck&logo=go&label=TiDB&style=social
