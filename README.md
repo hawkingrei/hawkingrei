@@ -6,6 +6,9 @@ Wechat ID
 echo -n 'aGF3a2luZ3JlaQo=' | base64 -d
 ```
 
+- Golang
+  - [![tidb-commits][tidb-commits]](https://github.com/pingcap/tidb/commits?author=hawkingrei)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawkingrei&theme=monokai)
 
 <img src="https://github-profile-trophy.vercel.app/?username=hawkingrei&column=4&row=2&margin-w=20&margin-h=10" />
