@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[tidb-commits]: https://img.shields.io/badge/39+commits-black?logoColor=balck&logo=go&label=TiDB&style=social
