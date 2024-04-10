@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on PingCAP.
+
 🌱 I'm currently learning database, go, rust and other interesting things.
 
 Wechat ID
