@@ -10,7 +10,7 @@ Wechat ID
 echo -n 'aGF3a2luZ3JlaQo=' | base64 -d
 ```
 
-<img src="https://github.com/user-attachments/assets/aca4edb0-066a-4d38-849d-df8373d631f6" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/aca4edb0-066a-4d38-849d-df8373d631f6" width="300" height="300">
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawkingrei&theme=monokai)
