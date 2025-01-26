@@ -17,4 +17,8 @@ echo -n 'aGF3a2luZ3JlaQo=' | base64 -d
 [tidb-commits]: https://img.shields.io/badge/800+commits-black?logoColor=balck&logo=go&label=TiDB&style=social
 
 
+<a href="https://github.com/hawkingrei">
+  <img align="center" width="49%" src="./github-metrics.svg.svg" />
+</a>
+
 <img src="https://github.com/user-attachments/assets/aca4edb0-066a-4d38-849d-df8373d631f6" width="300" height="300">
