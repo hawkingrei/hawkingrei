@@ -12,7 +12,7 @@ echo -n 'aGF3a2luZ3JlaQo=' | base64 -d
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawkingrei&theme=monokai)
 
-<img src="https://github-profile-trophy.vercel.app/?username=hawkingrei&column=4&row=2&margin-w=20&margin-h=10" />
+<img src="https://trophygh.kolioaris.xyz/?username=hawkingrei&column=4&row=2&margin-w=20&margin-h=10" />
 
 <a href="https://github.com/hawkingrei">
   <img align="center" width="49%" src="./github-metrics.svg" />
