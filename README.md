@@ -10,8 +10,9 @@
 	<a href="https://www.linkedin.com/in/hawkingrei/"><img src="https://img.shields.io/badge/-hawkingrei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hawkingrei"></a>
 	<a href="https://komarev.com/ghpvc/?username=hawkingrei"><img src="https://komarev.com/ghpvc/?username=hawkingrei" alt="profile"></a>
 </p>
-
+<p align="center">
 <a href="https://trendshift.io/developers/2644" target="_blank"><img src="https://trendshift.io/api/badge/developers/2644" alt="hawkingrei | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</p>
 
 Wechat ID
 
