@@ -11,6 +11,7 @@
 	<a href="https://komarev.com/ghpvc/?username=hawkingrei"><img src="https://komarev.com/ghpvc/?username=hawkingrei" alt="profile"></a>
 </p>
 
+<a href="https://trendshift.io/developers/2644" target="_blank"><img src="https://trendshift.io/api/badge/developers/2644" alt="hawkingrei | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 Wechat ID
 
