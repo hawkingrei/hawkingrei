@@ -23,6 +23,3 @@ echo -n 'aGF3a2luZ3JlaQo=' | base64 -d
 <p align="center">	
 	<a href="https://github.com/hawkingrei"><img align="center" width="49%" src="./github-metrics.svg"></a>
 </p>
-<p align="center">	
-	<a href="https://github.com/hawkingrei"><img align="center" width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hawkingrei&theme=monokai"></a>
-</p>
