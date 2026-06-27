@@ -33,7 +33,7 @@ Database engineer focused on TiDB, query optimization, distributed systems, and 
 
 - [agenthub](https://github.com/hawkingrei/agenthub): Self-hosted control plane for long-lived AI coding agents, structured timelines, multi-agent workflows, and remote execution nodes.
 - [rara](https://github.com/linkerdog/rara): Rust-first infrastructure work around LinkerDog's developer and agent workflows.
-- [shiro](https://github.com/hawkingrei/shiro): Go and TypeScript project for practical service-side tooling and product experiments.
+- [shiro](https://github.com/hawkingrei/shiro): Go and TypeScript project for practical server-side tooling and product experiments.
 - [chryso](https://github.com/hawkingrei/chryso): Rust systems project focused on compiler, parser, and infrastructure experiments.
 - [papers-notebook](https://github.com/hawkingrei/papers-notebook): Notes on database, systems, and engineering papers I have read.
 - [tidb-dev-prompt](https://github.com/hawkingrei/tidb-dev-prompt): Prompt collection for TiDB development workflows.
